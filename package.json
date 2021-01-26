@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/migrate-check",
+  "version": "1.0.0",
+  "description": "Check status of database migrations in a project",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/migrate-check.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/index.test.js"
+  },
+  "bin": {
+    "migrate-check": "bin/cli.js"
+  }
+}
