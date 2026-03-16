@@ -18,5 +18,9 @@
   },
   "bin": {
     "migrate-check": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/migrate-check",
+  "bugs": {
+    "url": "https://github.com/idirdev/migrate-check/issues"
   }
 }
